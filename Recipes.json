@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Nudlar",
+    "yield": "1",
+    "img": "img",
+    "ingredients": [
+      {
+        "quantity": "1",
+        "name": "Samyang kryddstark",
+        "type": "carbs"
+      },
+      {
+        "quantity": "100 g",
+        "name": "Tofu",
+        "type": "protein"
+      },
+      {
+        "quantity": "20 g",
+        "name": "Edamame",
+        "type": "greens"
+      }
+    ],
+    "instructions": [
+      {
+        "name": "Heat water",
+        "text": "Heat water"
+      },
+      {
+        "name": "Chop tofu",
+        "text": "Chop tofu"
+      },
+      {
+        "name": "Add water to noodles",
+        "text": "Also tofu if you like"
+      },
+      {
+        "name": "Top with edamame",
+        "text": "Enjoy"
+      }
+    ]
+  }
+]
